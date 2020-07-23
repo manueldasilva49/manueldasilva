@@ -1,0 +1,28 @@
+relativeURLs = true
+uglyURLs = true
+baseURL = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Manuel da Silva"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+publishdir = "public"
+[markup.goldmark.renderer]
+    unsafe = true
+[Author]
+    name = "Manuel da Silva"
+
+[params]
+
+    
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:corredor_da_beira@yahoo.com"
+
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://linkedin.com/in/manuel-da-silva-6679b769/"
