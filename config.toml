@@ -26,3 +26,9 @@ publishdir = "public"
         icon = "linkedin"
         title = "Linkedin"
         url = "https://linkedin.com/in/manuel-da-silva-6679b769/"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "globe-africa"
+        title = "Vila Pery - Chimoio - Manica"
+        url = "https://sites.google.com/view/vila-pery/"
